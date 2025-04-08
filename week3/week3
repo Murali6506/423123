@@ -1,0 +1,5 @@
+ls a*
+ls *txt
+ls ?????
+ls [bcde]*
+ls ? [0-9]*.log
