@@ -1,0 +1,5 @@
+Line 1: First line of data.
+Line 2: Some information here.
+Line 3: Another piece of text.
+...
+Line 1000: The last line.

@@ -1,0 +1,6 @@
+Alice 25 Engineer 60000
+Bob 30 Doctor 80000
+Charlie 28 Teacher 50000
+David 35 Lawyer 90000
+Eve 27 Scientist 75000
+Frank 40 Pilot 100000

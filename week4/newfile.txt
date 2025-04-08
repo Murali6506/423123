@@ -1,0 +1,6 @@
+The old version of the software needs an update.
+This line doesn't need any change.
+We should update the old system to the new version.
+Please update the old records.
+This is just a regular line with no need for update.
+There is no update for the old hardware.

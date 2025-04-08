@@ -1,0 +1,7 @@
+ID,Name,Age,Department,Salary  
+101,Alice,25,Engineering,60000  
+102,Bob,30,Medical,80000  
+103,Charlie,28,Education,50000  
+104,David,35,Legal,90000  
+105,Eve,27,Science,75000  
+106,Frank,40,Aviation,100000  

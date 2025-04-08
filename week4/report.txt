@@ -1,0 +1,9 @@
+Sales Report - January 2025  
+
+Employee    Region     Sales  
+Alice       North      15000  
+Bob         South      18000  
+Charlie     East       17000  
+David       West       16000  
+Eve         North      20000  
+Frank       South      19000  

@@ -1,0 +1,5 @@
+john.doe@gmail.com
+alice.smith@yahoo.com
+charlie.brown@outlook.com
+david.jones@gmail.com
+eve.white@hotmail.com
