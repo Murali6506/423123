@@ -1,0 +1,6 @@
+awk '$2 == "ERROR" { print $1, $0 }' logfile.txt
+awk 'NR>1 { math+=$2; sci+=$3; eng+=$4; count++ }
+     END { print "Math Avg:", math/count; print "Science Avg:", sci/count; print "English Avg:", eng/count }' marks.tsv
+awk '{ ip[$1]++ } END { for (i in ip) print i, ip[i] }' server.log
+sed 's/^\([^ ]*\)\(.*\)\([^ ]*\)$/\3\2\1/' input.txt
+sed 's/\b\([a-zA-Z]\+\)\b \1\b/\1/g' input.txt
