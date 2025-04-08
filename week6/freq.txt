@@ -1,0 +1,4 @@
+apple banana cherry apple
+dog cat banana apple
+cherry dog apple
+banana apple

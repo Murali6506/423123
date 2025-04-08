@@ -1,0 +1,5 @@
+The     quick    brown fox      jumps    over    the    lazy   dog.
+    Hello       world, this    is    an example      text    with  varying spaces.
+  We    are    learning    new    things    each    day.    Let's     keep   going!
+Multiple      spaces     in   sentences   are    difficult    to   read    sometimes.
+   Do    not   worry,    everything     will     be     fine    soon.
