@@ -1,0 +1,20 @@
+ulimit -c
+ulimit -c unlimited
+ulimit -c 0
+#include <stdio.h>
+
+int main() {
+    int arr[5] = {1, 2, 3, 4, 5};
+
+    // Intentional out-of-bounds access
+    for (int i = 0; i <= 5; i++) {
+        printf("arr[%d] = %d\n", i, arr[i]);
+    }
+
+    return 0;
+}
+gcc -g program.c -o program
+./program
+
+gdb ./program core
+bt
