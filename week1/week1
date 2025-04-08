@@ -1,0 +1,5 @@
+Q1) mkdir unix
+Q2) cd unix
+Q3) who|wc -l
+Q4) cd ..
+Q5) ls
