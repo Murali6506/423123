@@ -1,0 +1,6 @@
+tar -cvf backup.tar file1 file2 dir1/
+tar -czvf backup.tar.gz file1 file2 dir1/
+tar -cjvf backup.tar.bz2 file1 file2 dir1/
+tar -xvf backup.tar
+tar -xvf backup.tar -C /path/to/destination/
+tar -xzvf backup.tar.gz
