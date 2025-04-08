@@ -1,0 +1,10 @@
+sudo apt install package-name
+sudo apt install curl
+sudo apt install --only-upgrade package-name
+sudo apt install --only-upgrade firefox
+sudo apt remove package-name
+sudo apt purge package-name
+sudo apt purge vlc
+sudo apt autoremove
+sudo apt update
+sudo apt upgrade
